@@ -1,4 +1,4 @@
-# Snake Game in Python 🐍
+# Snake Game in Python 
 
 A classic Snake Game built using Python and Pygame with real-time score tracking and keyboard controls.
 
